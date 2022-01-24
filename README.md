@@ -106,5 +106,5 @@
 
 參考資料:https://igouist.github.io/post/2020/07/code-style/
 
-# 補充
+## 補充
 1.函式參數高於三個以上，試著拆出重共方法
