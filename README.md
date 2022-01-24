@@ -38,6 +38,8 @@
       批次:Batch<br>
       插入、移除集合中元素:Add()、Remove()<br>
       產生特定資料:Generate<br>
+      屬性:名詞。(名詞+名詞 or 形容詞+名詞)<br>
+      動作:處理資料(動詞+名詞)<br>
      </td>
      <td>
       [CRUD]<br>
@@ -54,6 +56,8 @@
       批次:BatchCreateMember<br>
       插入、移除集合中元素:Add()、Remove()<br>
       產生特定資料:GenerateSerialNumber<br>
+      屬性:int NumberOfUncrossedIntegers()
+      動作:int CalcMaxPrimeFactor()
    </td>
    </tr>
    <tr>
