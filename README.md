@@ -56,8 +56,8 @@
       批次:BatchCreateMember<br>
       插入、移除集合中元素:Add()、Remove()<br>
       產生特定資料:GenerateSerialNumber<br>
-      屬性:int NumberOfUncrossedIntegers()
-      動作:int CalcMaxPrimeFactor()
+      屬性:int NumberOfUncrossedIntegers()<br>
+      動作:int CalcMaxPrimeFactor()<br>
    </td>
    </tr>
    <tr>
