@@ -70,6 +70,21 @@
       isName、minDepth、maxDepth
     </td>
    </tr>
+  <tr>
+    <td>6</td>
+    <td>
+      類別Field、Properity
+    </td>
+    <td>
+      Field:僅類別內部使用，以_開頭。<br>
+      Properity:外部存取，大寫駝峰<br>
+    <td>
+      <b>Field:</b><br>
+      private _name;<br>
+      <b>Properity:</b><br>
+      public Name {get;set;}<br>
+    </td>
+   </tr>
 </table>
 
 
