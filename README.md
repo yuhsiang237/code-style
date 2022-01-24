@@ -7,13 +7,13 @@
     <td>項目</td>
     <td>命名方式</td>
     <td>範例</td>
-  <tr>
+  </tr>
   <tr>
     <td>1</td>
     <td>類別命名</td>
     <td>名詞+抽象類別名稱</td>
     <td>APIContext、DBContext、ISelectionService、PeopleHandler、MemberTypeEnum</td>
-   <tr>
+   </tr>
      <tr>
     <td>2</td>
     <td>函式命名前綴</td>
@@ -43,12 +43,19 @@
       顯示隱藏:ShowMember、HideMember<br>
       事件:OnClick<br>
    </td>
+   </tr>
    <tr>
     <td>3</td>
     <td>介面命名</td>
     <td>I+類別名稱</td>
     <td>IShapeFactory</td>
+   </tr>
    <tr>
+    <td>4</td>
+    <td>常數</td>
+    <td>全大寫</td>
+    <td>PI</td>
+   </tr>
 </table>
 
 
