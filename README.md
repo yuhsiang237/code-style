@@ -23,7 +23,7 @@
     <td>函式命名前綴</td>
     <td>
       [CRUD]<br>
-      建立:Create(建立與資料庫有關的物件)、Generate(產生特定資料)<br>
+      建立:Create(建立與資料庫有關的物件)<br>
       擷取:Search(頁面或定義為搜尋時)、Get(直接抓回特定資料)、Find(從集合中去找資料)<br>
       修改:Update<br>
       刪除:Delete<br>
@@ -34,10 +34,12 @@
       顯示隱藏:Show、Hide<br>
       事件:On<br>
       批次:Batch<br>
+      插入、移除元素:Add()、Remove()<br>
+      產生特定資料:Generate<br>
      </td>
      <td>
       [CRUD]<br>
-      建立:CreateMember、GenerateSerialNumber<br>
+      建立:CreateMember<br>
       擷取:SearchMember、GetMember、FindMember<br>
       修改:UpdateMember<br>
       刪除:DeleteMember<br>
@@ -48,6 +50,8 @@
       顯示隱藏:ShowMember、HideMember<br>
       事件:OnClick<br>
       批次:BatchCreateMember<br>
+      插入、移除元素:Add()、Remove()<br>
+      產生特定資料:GenerateSerialNumber<br>
    </td>
    </tr>
    <tr>
