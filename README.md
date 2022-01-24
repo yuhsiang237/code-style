@@ -45,7 +45,7 @@
       刪除:DeleteMember<br>
       [額外]<br>
       狀態判斷:IsMember<br>
-      編碼轉換:ConvertMember<br>
+      編碼轉換:ConvertPMember<br>
       載入檔案:LoadMember<br>
       顯示隱藏:ShowMember、HideMember<br>
       事件:OnClick<br>
