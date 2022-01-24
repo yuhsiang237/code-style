@@ -10,9 +10,9 @@
   <tr>
   <tr>
     <td>1</td>
-    <td>類別Class命名</td>
+    <td>類別命名</td>
     <td>名詞+抽象類別名稱</td>
-    <td>APIContext、DBContext、ISelectionService、PeopleHandler</td>
+    <td>APIContext、DBContext、ISelectionService、PeopleHandler、MemberTypeEnum</td>
    <tr>
      <tr>
     <td>2</td>
@@ -43,7 +43,12 @@
       顯示隱藏:ShowMember、HideMember<br>
       事件:OnClick<br>
    </td>
-   
+   <tr>
+    <td>3</td>
+    <td>介面命名</td>
+    <td>I+類別名稱</td>
+    <td>IShapeFactory</td>
+   <tr>
 </table>
 
 
