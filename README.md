@@ -29,6 +29,7 @@
       載入檔案:Load<br>
       顯示隱藏:Show、Hide<br>
       事件:On<br>
+      批次:Batch<br>
      </td>
      <td>
       [CRUD]<br>
@@ -42,6 +43,7 @@
       載入檔案:LoadMember<br>
       顯示隱藏:ShowMember、HideMember<br>
       事件:OnClick<br>
+      批次:BatchCreateMember<br>
    </td>
    </tr>
    <tr>
