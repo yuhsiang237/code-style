@@ -30,7 +30,7 @@
       顯示隱藏:Show、Hide<br>
       事件:On<br>
      </td>
-    <td>
+     <td>
       [CRUD]<br>
       建立:CreateMember<br>
       擷取:SearchMember、GetMember、FindMember<br>
@@ -55,6 +55,20 @@
     <td>常數</td>
     <td>全大寫</td>
     <td>PI</td>
+   </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      變數
+    </td>
+    <td>
+      CamelCase<br>
+      [常見]<br>
+      布林:is、has<br>
+      大小:min、max<br></td>
+    <td>
+      isName、minDepth、maxDepth
+    </td>
    </tr>
 </table>
 
