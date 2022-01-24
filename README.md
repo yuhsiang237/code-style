@@ -104,7 +104,18 @@
    </tr>
 </table>
 
-參考資料:https://igouist.github.io/post/2020/07/code-style/
-
+## 註解
+```
+// <summary>
+/// 資料庫連線類別
+/// </summary>
+public class DatabaseConstants : IDatabaseConstants
+{
+    // Something
+}
+```
 ## 補充
-1.函式參數高於三個以上，試著拆出重共方法
+1.函式參數高於三個以上，試著拆出重構方法換思路。
+
+## 參考資料
+參考資料:https://igouist.github.io/post/2020/07/code-style/
