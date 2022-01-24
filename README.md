@@ -87,6 +87,17 @@
       public Name {get;set;}<br>
     </td>
    </tr>
+   <tr>
+    <td>7</td>
+    <td>
+      泛型
+    </td>
+    <td>
+      T+集合名稱
+    <td>
+      List<T> TList1
+    </td>
+   </tr>
 </table>
 
 參考資料:https://igouist.github.io/post/2020/07/code-style/
