@@ -129,4 +129,4 @@ public class DatabaseConstants : IDatabaseConstants
 2. 函式如果以足夠說明則可避免贅詞。如ProductService.GetProduct()可更改為ProductService.Get()。  
 
 ## 參考資料
-參考資料:https://igouist.github.io/post/2020/07/code-style/
+https://igouist.github.io/post/2020/07/code-style/
