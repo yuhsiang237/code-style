@@ -125,7 +125,8 @@ public class DatabaseConstants : IDatabaseConstants
 }
 ```
 ## 補充
-1.函式參數高於三個以上，試著拆出重構方法換思路。
+1. 函式參數高於三個以上，試著拆出重構方法換思路。  
+2. 函式如果以足夠說明則可避免贅詞。如ProductService.GetProduct()可更改為ProductService.Get()。  
 
 ## 參考資料
 參考資料:https://igouist.github.io/post/2020/07/code-style/
