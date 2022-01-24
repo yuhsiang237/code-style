@@ -34,7 +34,7 @@
       顯示隱藏:Show、Hide<br>
       事件:On<br>
       批次:Batch<br>
-      插入、移除元素:Add()、Remove()<br>
+      插入、移除集合中元素:Add()、Remove()<br>
       產生特定資料:Generate<br>
      </td>
      <td>
@@ -50,7 +50,7 @@
       顯示隱藏:ShowMember、HideMember<br>
       事件:OnClick<br>
       批次:BatchCreateMember<br>
-      插入、移除元素:Add()、Remove()<br>
+      插入、移除集合中元素:Add()、Remove()<br>
       產生特定資料:GenerateSerialNumber<br>
    </td>
    </tr>
