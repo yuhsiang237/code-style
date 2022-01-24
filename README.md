@@ -57,7 +57,7 @@
     <td>4</td>
     <td>常數</td>
     <td>全大寫</td>
-    <td>PI</td>
+    <td>static readonly double Pi = 3.14159;</td>
    </tr>
   <tr>
     <td>5</td>
