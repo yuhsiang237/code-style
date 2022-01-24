@@ -65,7 +65,7 @@
       變數
     </td>
     <td>
-      CamelCase<br>
+      指在函式裡面的變數，採用CamelCase<br>
       [常見]<br>
       布林:is、has<br>
       大小:min、max<br></td>
