@@ -108,10 +108,26 @@
     </td>
     <td>
       T+集合名稱
-    <td>
+     </td>
+     <td>
       List<T> TList1
     </td>
    </tr>
+    <tr>
+      <td>8</td>
+    <td>
+      函式名後綴
+    </td>
+    <td>
+        非同步方法後面加上Async。
+      如:RefreshCasesAsync
+     </td>
+     <td>
+        非同步方法後面加上Async。
+      如:RefreshCasesAsync
+      </td>
+      
+      </tr>
 </table>
 
 ## 註解
